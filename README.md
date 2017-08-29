@@ -4,6 +4,5 @@ This repo contains a couple of code snippets you can borrow and build on when ma
 
 For details, see the following blog posts in our blog series on using Docker:
 
-- x
-- y
-- z
+- coming
+- soon
